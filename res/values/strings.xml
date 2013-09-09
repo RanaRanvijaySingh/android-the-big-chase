@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DemoActivity!</string>
+    <string name="app_name">Demo</string>
+    <string name="title">Big Chase</string>
+    <string name="d1">drag the ball</string>
+    
+    <color name="g1">#00ff00</color>
+    <color name="b1">#0000ff</color>
+    <color name="lg">#c9f665</color><color name="gn">#42cb08</color><color name="dg1">#296018</color><color name="dg2">#1c4410</color><color name="bl">#8cb2ce</color><color name="r1">#ff0000</color>
+    
+    
+    
+    
+    
+    
+
+</resources>

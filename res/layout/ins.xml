@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/play4"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08"
+        android:text="Instructions"
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="40dp"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.34"
+        android:text="
+        
+        The first object will be dragged to different position on the screen using hand movement . 
+       "
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="23dp"/>
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.34"
+        android:text="
+        
+        
+        The second object will  traverse the displacement path to reach the first object.
+        "
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="23dp"/>
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.34"
+        android:text="
+        
+        The user needs to prevent the collision between the two objects to continue the game.
+        The game eventually comes to an end when the collision occurs."
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="23dp"/>
+
+</LinearLayout>

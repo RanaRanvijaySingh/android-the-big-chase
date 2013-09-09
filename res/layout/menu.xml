@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/title3"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="275dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="175dp"
+        android:text="Play"
+        android:textColor="@color/dg1"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:typeface="normal"/>
+
+    <Button
+        android:id="@+id/bi"
+        android:layout_width="275dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Instruction"
+        android:textColor="@color/dg1"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bo"
+        android:layout_width="275dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Options"
+        android:textColor="@color/dg1"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/be"
+        android:layout_width="275dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Exit"
+        android:textColor="@color/dg1"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
